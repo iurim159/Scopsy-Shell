@@ -1,2 +1,1 @@
-sudo -s apt-get install toilet
-
+sudo -s apt-get install toilet nmap
